@@ -1,4 +1,3 @@
-from tkinter.font import ITALIC
 from manim import *
 import numpy as np
 
